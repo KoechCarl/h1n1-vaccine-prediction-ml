@@ -163,7 +163,7 @@ The `notebooks/` directory contains the Jupyter Notebook used for analysis.
 ### Presentation
 A non-technical presentation summarizing the analysis and business recommendations.
 
-- `presentation.pdf` - https://docs.google.com/presentation/d/1CXo_OE7GnMpl-YpNf_XSgJA6H1UMSZozb-r-DgasR6E/edit?usp=sharing
+- `Predicting H1N1 Vaccine Uptake Using Machine Learning.pdf` - https://docs.google.com/presentation/d/1CXo_OE7GnMpl-YpNf_XSgJA6H1UMSZozb-r-DgasR6E/edit?usp=sharing
 
 ---
 
