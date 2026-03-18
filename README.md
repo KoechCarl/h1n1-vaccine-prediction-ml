@@ -142,11 +142,36 @@ Although limitations exist, the findings provide a strong foundation for designi
 
 ---
 
-## Repository Structure
-`data` - Hold the datasets used in this project
+## Repository Contents
 
-`h1n1_vaccine_prediction.ipynb` - The project notebook
+### Data
+The `data/` directory contains the aviation accident dataset used for analysis.
 
-`presentation.pdf` - Non-Technical Presentation
+-`training_set_labels.csv` - Holds the targets for the main dataset
+-`trainig_set_features.csv` - Holds the features for the main dataset
+-`h1n1_vaccine.csv` - Has the merged features and targets and is the main dataset used in the notebook.
 
-`README.md`
+---
+
+### Notebooks
+The `notebooks/` directory contains the Jupyter Notebook used for analysis.
+
+- `h1n1_vaccine_prediction.ipynb` – Data cleaning, exploratory analysis,modelling, insights, and business recommendations.
+
+---
+
+### Presentation
+A non-technical presentation summarizing the analysis and business recommendations.
+
+- `presentation.pdf` - https://docs.google.com/presentation/d/1CXo_OE7GnMpl-YpNf_XSgJA6H1UMSZozb-r-DgasR6E/edit?usp=sharing
+
+---
+
+### Other Files
+- `README.md` – Project documentation
+
+---
+For query or support, reach out via :
+  - Email - koechcarl51@gmail.com
+
+Thank you for your time.
